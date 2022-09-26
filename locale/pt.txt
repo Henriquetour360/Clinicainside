@@ -1,0 +1,55 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_04603E1C_1EF9_F63F_41B6_97E05A465F09.source = https://api.whatsapp.com/send?phone=5561991781097&text=Senha%20bem%20vindo!
+LinkBehaviour_07B8507C_1D28_0AFF_4195_7449CB5DD123.source = https://api.whatsapp.com/send?phone=5561991781097&text=Senha%20bem%20vindo!
+LinkBehaviour_04628DED_1EF9_FA19_41A9_A4EE612D33EA.source = https://api.whatsapp.com/send?phone=5561992130611&text=Senha%20bem%20vindo!%20
+LinkBehaviour_0460B29C_1D28_0E3F_41BC_F19983CC89C5.source = https://api.whatsapp.com/send?phone=5561992130611&text=Senha%20bem%20vindo!%20
+LinkBehaviour_04B0CB9C_1D29_FE3F_41BB_4B642610ED3B.source = https://diagnosticosinside.com.br/
+LinkBehaviour_04605E0C_1EF9_F61F_4197_7CE5D4DC90F5.source = https://diagnosticosinside.com.br/
+LinkBehaviour_04D9FB15_1D58_1E0E_41B0_5AE555C467FE.source = https://goo.gl/maps/ZgchSipun7tTmiV98
+LinkBehaviour_0462CDDE_1EF9_FA3A_4195_EF6FA3F3236D.source = https://goo.gl/maps/ZgchSipun7tTmiV98
+LinkBehaviour_07A10CD6_1D58_3A0A_41B0_1D90D46A92F6.source = https://www.instagram.com/clinica.inside/?igshid=YmMyMTA2M2Y%3D
+LinkBehaviour_0460CE0C_1EF9_F61F_414C_85662FBB34E4.source = https://www.instagram.com/clinica.inside/?igshid=YmMyMTA2M2Y%3D
+LinkBehaviour_04632E0C_1EF9_F61F_41B5_8A9C43120C7F.source = tel:06136052686
+LinkBehaviour_04E34CFD_1D38_3BF9_41A4_38CE53555360.source = tel:06136052686
+
+## Media
+
+### Audio
+audiores_0A7ABD5B_1D28_FA39_41A6_0E47900C75A2.mp3Url = media/audio_0A300666_1D28_160B_4188_A720E4422024_pt.mp3
+audiores_69235812_67D2_ED3A_41D2_1519CD2533F7.mp3Url = media/audio_6A3483D6_67D2_A33A_41D9_1BB14DF9FDF2_pt.mp3
+
+### Title
+panorama_11347887_1D28_1A09_41BA_7AF1D0E068B4.label = 1 recepção_
+panorama_163CA249_1D28_0E06_41AD_E51886520638.label = 2 recepção_
+panorama_1638AC3C_1D28_1A7F_414B_DBB0565B8788.label = IMG_20220906_164156_00_729(1)-01
+panorama_163B48DE_1D28_3A3A_41A1_268F63B17E42.label = escritorio 2
+panorama_163BCD11_1D28_1A09_41A0_FB196490C8E2.label = espar
+panorama_163861D1_1D28_0A09_418B_BC338451DE87.label = frente nova
+panorama_16381021_1D28_0A09_418A_A3EA20F1E921.label = medicação
+
+## Skin
+
+### Image
+Image_041F3021_1D68_0A06_41B7_A63A233A51A9_mobile.url = skin/Image_041F3021_1D68_0A06_41B7_A63A233A51A9_mobile_pt.png
+Image_041F3021_1D68_0A06_41B7_A63A233A51A9.url = skin/Image_041F3021_1D68_0A06_41B7_A63A233A51A9_pt.png
+Image_042DE52F_1D68_0A1A_41BB_DBC3A831DD28_mobile.url = skin/Image_042DE52F_1D68_0A1A_41BB_DBC3A831DD28_mobile_pt.jpg
+Image_042DE52F_1D68_0A1A_41BB_DBC3A831DD28.url = skin/Image_042DE52F_1D68_0A1A_41BB_DBC3A831DD28_pt.jpg
+Image_045E41FE_1D68_0DFB_418D_A738C4EB638C_mobile.url = skin/Image_045E41FE_1D68_0DFB_418D_A738C4EB638C_mobile_pt.jpg
+Image_045E41FE_1D68_0DFB_418D_A738C4EB638C.url = skin/Image_045E41FE_1D68_0DFB_418D_A738C4EB638C_pt.jpg
+Image_045F7741_1D68_F609_41B3_73DE8D4BC55C_mobile.url = skin/Image_045F7741_1D68_F609_41B3_73DE8D4BC55C_mobile_pt.png
+Image_045F7741_1D68_F609_41B3_73DE8D4BC55C.url = skin/Image_045F7741_1D68_F609_41B3_73DE8D4BC55C_pt.png
+Image_04720E5A_1D68_163B_41A4_3DE08972247A_mobile.url = skin/Image_04720E5A_1D68_163B_41A4_3DE08972247A_mobile_pt.png
+Image_04720E5A_1D68_163B_41A4_3DE08972247A.url = skin/Image_04720E5A_1D68_163B_41A4_3DE08972247A_pt.png
+Image_054F108C_1D68_0A1F_41AA_D864D6497DDB_mobile.url = skin/Image_054F108C_1D68_0A1F_41AA_D864D6497DDB_mobile_pt.png
+Image_054F108C_1D68_0A1F_41AA_D864D6497DDB.url = skin/Image_054F108C_1D68_0A1F_41AA_D864D6497DDB_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = CLINICA INSIDE
